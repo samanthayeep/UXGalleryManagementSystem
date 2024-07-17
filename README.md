@@ -1,4 +1,4 @@
-UX Gallery Management System
+**UX Gallery Management System**
 
 Overview
 
@@ -11,7 +11,6 @@ Artist Management: Add, delete, modify, search, and list artists and their works
 Artwork Management: Add, delete, modify, search, and list artworks with details such as purchase price and selling price.
 File Handling: Save and load all information to and from text files to maintain data persistence.
 Exception Handling: Ensure smooth operation and error handling throughout the application.
-Class Diagram
 
 The project includes a complete class diagram using UML notations, which illustrates all classes, their attributes, operations, relationships among classes, along with navigability and multiplicities.
 
