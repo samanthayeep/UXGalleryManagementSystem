@@ -1,0 +1,6 @@
+Artist name:Johannes Vermeer    ,  Specialty:ability to use light and shadow to create a sense of realism and depth in his paintings.,  Status:Deceased  ,  Price range:85000.0     -90000.0   
+Artist name:Frida Kohlo         ,  Specialty:Self potraiture Kahlo was a Mexican painter known for her highly personal and introspective self-portraits. ,  Status:Deceased  ,  Price range:95000.0     -100000.0  
+Artist name:Banksy              ,  Specialty:Street Art Banksy is a British street artist who rose to fame for his politically charged and often satirical stencil-based graffiti.,  Status:Deceased  ,  Price range:95000.0     -100000.0  
+Artist name:August Rodin        ,  Specialty:Sculpture Rodin.    ,  Status:Deceased  ,  Price range:95000.0     -100000.0  
+Artist name:Pablo Picasso       ,  Specialty:Cubism, an art movement he co-founded that focused on the use of geometric shapes to create abstract compositions.,  Status:Deceased  ,  Price range:90000.0     -100000.0  
+Artist name:Yayoi Kusama        ,  Specialty:Installation Art Kusama is a Japanese artist who is known for her immersive and psychedelic installation art.,  Status:Deceased  ,  Price range:95000.0     -100000.0  

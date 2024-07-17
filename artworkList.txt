@@ -1,0 +1,6 @@
+Artwork title: Girl with a Peral Earring, Date Purchased: 09/08/2011, Date sold: 09/09/2022, Artist: Johannes Vermeer    , Price: 100000.0  
+Artwork title: Guernica            , Date Purchased: 07/07/1998, Date sold: 09/03/2021, Artist: Pablo Picasso       , Price: 98000.0   
+Artwork title: My Birth            , Date Purchased: 02/06/1999, Date sold: 12/04/2020, Artist: Frida Kahlo         , Price: 95000.0   
+Artwork title: Balloon Girl        , Date Purchased: 09/03/2000, Date sold: 09/08/2015, Artist: Banksy              , Price: 99000.0   
+Artwork title: Yellow Trees        , Date Purchased: 29/12/2003, Date sold: 28/02/2018, Artist: Yayoi Kusama        , Price: 98000.0   
+Artwork title: The Thinker         , Date Purchased: 09/11/2012, Date sold: 09/12/2019, Artist: August Rodin        , Price: 97000.0   

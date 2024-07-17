@@ -1,0 +1,6 @@
+Customer ID:627177    , Customer name:Abigail             , Customer email:abigail@gmail.com   , Customer contact number:01116711199, Customer address:31, Taman Desa 2, Jalan Desa 2, 56700 KL
+Customer ID:687873    , Customer name:Jennifer Chen       , Customer email:Jennifer@Yahoo.com  , Customer contact number:012345678 , Customer address:16, Jalan Indah 5/9, Taman Bukit Indah, 81200 JB
+Customer ID:428881    , Customer name:Ho Ching Ling       , Customer email:chinglingho@gmail.com, Customer contact number:0165467485, Customer address:18, Jalan Ho Chin Sheng 1/2, Taman Bukit Mewah, 24500 KL
+Customer ID:149277    , Customer name:Kee Yi Wen          , Customer email:evonkee@gmail.com   , Customer contact number:01167584763, Customer address:31, Jalan Bukit Fasa 3/3, Taman Bukit Fasa 3, 24500 KL
+Customer ID:996111    , Customer name:Alex Lim            , Customer email:limchisan@gmail.com , Customer contact number:01222678926, Customer address:9, Jalan Bintang 1/2, Taman Bukit Bintang, 43000 Kajang
+Customer ID:236887    , Customer name:Fabian Lee Kai Ming , Customer email:fabianlee98@gmail.com, Customer contact number:01678679988, Customer address:56, Jalan Tinggi Sangat 1/5, Taman Super Tinggi, 43000 Kajang

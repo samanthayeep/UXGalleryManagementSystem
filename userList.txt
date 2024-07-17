@@ -1,0 +1,6 @@
+User id: 126383    , User name: John Sim            , Email: johnsim@gmail.com   , Password: 121315    
+User id: 590867    , User name: Karen Chen          , Email: karenc@gmail.com    , Password: 567857    
+User id: 661024    , User name: Yap Winson          , Email: george9832@gmail.com, Password: 878787    
+User id: 557735    , User name: Eleanor Beh         , Email: eleanorB@gmail.com  , Password: 387689    
+User id: 667588    , User name: George Lee          , Email: georgelee@gmail.com , Password: 232323    
+User id: 944218    , User name: Selina              , Email: selina123@gmail.com , Password: 121212    
