@@ -48,16 +48,16 @@ UML Tool: Used for creating the class diagram.
 **Installation and Usage**
 
 1. Clone the repository:
-- git clone https://github.com/samanthayeep/UXGalleryManagementSystem.git
+  git clone https://github.com/samanthayeep/UXGalleryManagementSystem.git
 
 2. Navigate to the project directory:
-- cd UXGalleryManagementSystem
+  cd UXGalleryManagementSystem
 
 3. Compile the Java files:
-- javac *.java
+  javac *.java
 
-4. Run the application:
-- java Main
+5. Run the application:
+  java Main
 
 **Sample Data**
 
