@@ -44,6 +44,7 @@ A complete class diagram using UML standard notations shows all classes, their a
 
 Java: Programming language used for developing the application.
 UML Tool: Used for creating the class diagram.
+Esclipe: Integrated Development Environment (IDE) for coding and testing the application.
 
 **Installation and Usage**
 
@@ -58,10 +59,6 @@ UML Tool: Used for creating the class diagram.
 
 5. Run the application:
 - java Main
-
-**Sample Data**
-
-Sample input data (text file) and output (screenshots) are provided in the project folder.
 
 **Contribution**
 
