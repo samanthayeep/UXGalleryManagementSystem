@@ -42,9 +42,9 @@ A complete class diagram using UML standard notations shows all classes, their a
 
 **Technologies Used**
 
-Java: Programming language used for developing the application.
-UML Tool: Used for creating the class diagram.
-Esclipe: Integrated Development Environment (IDE) for coding and testing the application.
+- Java: Programming language used for developing the application.
+- UML Tool: Used for creating the class diagram.
+- Esclipe: Integrated Development Environment (IDE) for coding and testing the application.
 
 **Installation and Usage**
 
